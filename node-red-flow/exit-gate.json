@@ -1,0 +1,1 @@
+[{"id":"9aa9794f.6b4048","type":"exec","z":"e82eeb8d.5d3038","command":"fswebcam -r 800x600 /home/pi/Motion/capture_$(date +\"%Y-%m-%d_%H%M\").jpg","addpay":false,"append":"","useSpawn":"false","timer":"","oldrc":false,"name":"","x":733.0001068115234,"y":292.49999809265137,"wires":[[],[],[]]}]
