@@ -3,6 +3,9 @@
 ## Team Member: 
 Amir Hamzah
 
+### Slide
+https://bit.ly/2VmohmD
+
 ## Goal
 
 To create simple IOT dashbaord for tracking entrance and exit person in the premise and ensure minimum human contact inside the premise in the shopping complex or mini-market.
